@@ -5,4 +5,7 @@ public class TranslatorFactory {
 
         return new GermanTranslator();
     }
+   public void Create (){
+
+   }
 }
